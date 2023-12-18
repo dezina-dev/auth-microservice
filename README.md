@@ -12,7 +12,7 @@ The entry point for the backend is `index.ts`.
 
 ## Database Name
 
-This project uses Postgres as its database.
+This project uses Mongodb as its database.
 
 ## Getting Started
 
