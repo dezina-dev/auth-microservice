@@ -6,3 +6,7 @@ package-lock.json
 # Env
 .env
 .dist
+
+# Docker
+.DS_Store
+.dockerignore
